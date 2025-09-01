@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><MELicense>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <AdventNetLicense name="ManageEngine RMM Central">
+      <Users>
+         <UserInfo ACNTRL="NO" CompanyName="Demo RMM Central" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-10" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bSJVGXGyD7Jzap97xffVxGebKS9cGyaQPAdPSX9NDff917xPJV" LicenseType="Registered" Name="Demo RMM Central">
+            <ID>ID</ID>
+         </UserInfo>
+      </Users>
+      <LicenseeDetails ID="ID">
+         <Product Category="ManageEngine RMM Central" Name="ManageEngine RMM Central" Type="Enterprise" Version="11"/>
+         <Component Name="EndpointManagement">
+            <Properties Name="Enabled" Value="true"/>
+            <Properties Name="NumberOfEndpoint" Value="50"/>
+         </Component>
+         <Component Name="Technicians">
+            <Properties Name="NumberOfTechnicians" Value="5"/>
+         </Component>
+         <Component Name="AddOnModules">
+            <Properties Name="Multi-lang-Pack" Value="true"/>
+            <Properties Name="FwsEnabled" Value="true"/>
+         </Component>
+         <Component Name="LicenseDetails">
+            <Properties Name="CustomerID" Value="111-111-111"/>
+            <Properties Name="LicenseID" Value="32323232323"/>
+            <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+            <Properties Name="licenseusertype" Value="Extended"/>
+            <Properties Name="SecondaryContact" Value="crackmanageengine@gmail.com"/>
+            <Properties Name="GenerationDate" Value="2025-08-15"/>
+		</Component>
+      </LicenseeDetails>
+      <LicenseKey>51UE0U5W0Wv4XdNj84XRvNvDmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXGNjYvoGvGNv42gvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpVWVWVWVWVWVdjvsNvY8l111U111U111djRvmj4sKPsL8X4vdvsNvY8lvKR4GvLQXNgsvfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvt054N8jHGNgFORvQmKnvKR4GvLQXNg4NvmviXNXM4N8jHGNgLXR4NvPsMMrsvN8iNgviXNXMvs8RHRv4Ng11LXR4NvPsMMrsvN8iNgviXNXMdjdj</LicenseKey>
+   </AdventNetLicense>
+   <AdventNetLicense name="AdventNet ManageEngine OpManager">
+      <Users>
+         <UserInfo ACNTRL="NO" CompanyName="Demo RMM Central" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-10" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bSJVGXGyD7Jzap97xffVxGebKS9cGyaQPAdPSX9NDff917xPJV" LicenseType="Registered" Name="Demo RMM Central">
+            <ID>ID</ID>
+         </UserInfo>
+      </Users>
+      <LicenseeDetails ID="ID">
+         <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="RMM" Version="12"/>
+         <Component Name="EndpointManagement">
+            <Properties Name="Enabled" Value="true"/>
+            <Properties Name="NumberOfEndpoint" Value="1000"/>
+         </Component>
+         <Component Name="ServerFramework">
+            <Properties Name="NumberOfClients" Value="unlimited"/>
+         </Component>
+         <Component Name="Technicians">
+            <Properties Name="NumberOfTechnicians" Value="10"/>
+         </Component>
+         <Component Name="Agents">
+            <Properties Name="NumberOfAgents" Value="unlimited"/>
+         </Component>
+         <Component Name="VoIP">
+            <Properties Name="NumberOfMonitors" Value="2"/>
+         </Component>
+         <Component Name="SLADashboard">
+            <Properties Name="Enable" Value="true"/>
+         </Component>
+         <Component Name="VirtualDevicesMonitoring">
+            <Properties Name="NumberOfVirtualHosts" Value="unlimited"/>
+         </Component>
+         <Component Name="Rack3DView">
+            <Properties Name="NumberOfRacks" Value="unlimited"/>
+         </Component>
+         <Component Name="SocialITPlus">
+            <Properties Name="UserCount" Value="unlimited"/>
+         </Component>
+         <Component Name="UCS">
+            <Properties Name="NumberOfUCS" Value="unlimited"/>
+         </Component>
+         <Component Name="LicenseModel">
+            <Properties Name="IsUsed" Value="true"/>
+         </Component>
+         <Component Name="WirelessMonitoring">
+            <Properties Name="NumberOfAccessPoints" Value="unlimited"/>
+         </Component>
+         <Component Name="NCM">
+            <Properties Name="NumberOfDevices" Value="50"/>
+         </Component>
+         <Component Name="EventLogMonitoring"/>
+         <Component Name="Rack3DView">
+            <Properties Name="NumberOfRacks" Value="unlimited"/>
+         </Component>
+         <Component Name="SocialITPlus">
+            <Properties Name="UserCount" Value="unlimited"/>
+         </Component>
+         <Component Name="UCS">
+            <Properties Name="NumberOfUCS" Value="unlimited"/>
+         </Component>
+         <Component Name="LicenseModel">
+            <Properties Name="IsUsed" Value="true"/>
+         </Component>
+         <Component Name="WirelessMonitoring">
+            <Properties Name="NumberOfAccessPoints" Value="unlimited"/>
+         </Component>
+         <Component Name="EventLogMonitoring"/>
+         <Component Name="MSExchangeMonitoring"/>
+         <Component Name="ActiveDirectoryMonitoring"/>
+         <Component Name="MSSQLMonitoring"/>
+         <Component Name="SMSNotification"/>
+         <Component Name="RootCauseAnalysis"/>
+         <Component Name="BILLING"/>
+         <Component Name="Storage">
+            <Properties Name="NumberOfDisks" Value="unlimited"/>
+         </Component>
+         <Component Name="LicenseDetails">
+            <Properties Name="CustomerID" Value="111-111-111"/>
+            <Properties Name="LicenseID" Value="32323232323"/>
+            <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+            <Properties Name="licenseusertype" Value="Extended"/>
+            <Properties Name="SecondaryContact" Value="crackmanageengine@gmail.com"/>
+            <Properties Name="GenerationDate" Value="2025-08-15"/>
+            <Properties Name="LicensedProductName" Value="ManageEngine RMM Central"/>
+         </Component>
+      </LicenseeDetails>
+    <LicenseKey>LXR4NvPsMMrsvN8iNgviXNXMvmXn4YKGjRpGvsNvY8l51UE0U5W0Wv4XdNj84XRvNvDmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXGNjYvoGvGNv42gvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpVWVWVWVWVWVdjvsNvY8l111U111U111djRvmj4sKPsL8X4vdvsNvY8lGv48m8LNKsys8dFORvQmKnviXRj4oDnjlljbs8skLXNAvsKXP4jjrNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3gGv48m8LNKs4N8jpssvYYAFORvQmKniN8Rj48NjMssvLvR8avKR4GvswsjLvGjMvsNvY8lGv48m8LNKoPwFORvQmKnoPwGv48m8LNK4NKjPRvswsKLptjLX8YjoGv48m8LNKsyYXrFORvQmKnvv8edVyYXriN8Rj48NjMijl4Nv3g05svY83vdFORvQmKnMPnGv48m8LNKs4N8jpssvYYAFORvQmKniN8Rj48NjMssvLvR8avKR4GvswsjLvGjMvsNvY8lGv48m8LNKoPwFORvQmKnoPwGv48m8LNK4NKjPRvswsKLptjLX8YjoGv48m8LNKsyYXrFORvQmKnvv8edVyYXrGv48m8LNKs4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8evKR4vLQXNgGRXjQCsXdAloWsRj48NjMFORvQmKnpjjeGv48m8LNKs4NviAFORvQmKns4NviA01sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtGv48m8LNKs4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo00014N8jHGNgFORvQmKnvKR4GvLQXNg4NvmviXNXM4N8jHGNgMgOMMrW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+   </AdventNetLicense>
+</MELicense>
